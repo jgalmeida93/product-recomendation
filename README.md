@@ -96,6 +96,7 @@ Certifique-se de que todos os critérios de aceite são atendidos durante o dese
 ## Autor
 
 Desenvolvido por Jonas G. Almeida
+
 [LinkedIn](https://www.linkedin.com/in/jgalmeida93/)
 
 ## Licença
